@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="27px" viewBox="0 0 27 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>icn/youtube</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="27" height="27" rx="13.5"></rect>
+        <path d="M14.9688889,4.87170905 C14.9688889,4.87170905 15.1111111,6.04803444 15.1111111,7.22390565 L15.1111111,8.32665393 C15.1111111,9.50297932 14.9688889,10.6788505 14.9688889,10.6788505 C14.9688889,10.6788505 14.8297778,11.6803167 14.4035556,12.1213252 C13.8626667,12.7004043 13.2564444,12.7031294 12.9786667,12.7371929 C10.9884444,12.8843471 8,12.8888889 8,12.8888889 C8,12.8888889 4.30222222,12.8543712 3.16444444,12.742643 C2.848,12.6822371 2.13733333,12.7004043 1.596,12.1213252 C1.16977778,11.6803167 1.03111111,10.6788505 1.03111111,10.6788505 C1.03111111,10.6788505 0.888888889,9.50297932 0.888888889,8.32665393 L0.888888889,7.22390565 C0.888888889,6.04803444 1.03111111,4.87170905 1.03111111,4.87170905 C1.03111111,4.87170905 1.16977778,3.87024284 1.596,3.42923436 C2.13733333,2.85015526 2.74311111,2.84743018 3.02133333,2.81382089 C5.01155556,2.66666667 7.99688889,2.66666667 7.99688889,2.66666667 L8.00311111,2.66666667 C8.00311111,2.66666667 10.9884444,2.66666667 12.9786667,2.81382089 C13.2564444,2.84743018 13.8626667,2.85015526 14.4035556,3.42923436 C14.8297778,3.87024284 14.9688889,4.87170905 14.9688889,4.87170905 Z M6.53155556,9.66285057 L10.3737778,7.62812557 L6.53111111,5.579321 L6.53155556,9.66285057 Z" id="path-3"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1440-quarks-navigation-topNav-icons" transform="translate(-874.000000, -8.000000)">
+            <g id="Top-Bar">
+                <g id="icn/youtube" transform="translate(874.000000, 8.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Rectangle-3" fill="#E74A41" xlink:href="#path-1"></use>
+                    <g id="icons/social/youtube" mask="url(#mask-2)">
+                        <g transform="translate(5.000000, 6.000000)">
+                            <mask id="mask-4" fill="white">
+                                <use xlink:href="#path-3"></use>
+                            </mask>
+                            <use id="Mask" stroke="none" fill="#212B36" fill-rule="evenodd" xlink:href="#path-3"></use>
+                            <g id="color/white" stroke="none" fill="none" mask="url(#mask-4)" fill-rule="evenodd">
+                                <rect id="color/background" fill="#FFFFFF" x="0" y="0" width="16" height="16" rx="4"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
